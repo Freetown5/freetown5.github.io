@@ -1,10 +1,9 @@
 import React from 'react';
+import OldPage from './Components/OldPage/OldPage.tsx';
 
 function App() {
     return (
-        <>
-            <h1>Working page</h1>
-        </>
+        <OldPage />
     )
 }
 
